@@ -5,7 +5,7 @@
 technology geeks who share the same passion for Coding. We'll master the fundamental
 concepts of programming in this club.
 ***
-!["Codex"](https://en.bitcoinwiki.org/upload/en/images/thumb/e/e8/Codex1.png/250px-Codex1.png)
+!["Codex"](https://codex-gitam.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcodex.476dd338.png&w=256&q=75)
 ***
 We (referring to core members) from **Codex** ensure to provide the following to our peers (Members):
 + Development of problem-solving skills
